@@ -14,6 +14,11 @@ Le jeu fonctionne entièrement hors ligne et ta progression est sauvegardée sur
 
 Il faut Android 8 ou plus récent.
 
+Tu lis cette page sur un ordinateur ? Scanne ce code avec l'appareil photo de ton téléphone pour télécharger le jeu :
+
+<img src="qr-code.png" alt="QR code de téléchargement" width="200">
+
+
 > Le jeu ne vient pas du Play Store, c'est pour ça qu'Android pose la question. Il ne demande aucun accès à tes photos, contacts ou données : il se connecte seulement à cette page pour vérifier s'il existe une nouvelle version.
 
 ## 🔄 Mises à jour
